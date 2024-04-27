@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: gainsboro;
+    padding: 2%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin: 0;
+    text-align: center;
+    font-family: "Source Serif 4", serif;
+    font-weight: bold;
+    
+}
+
+nav {
+    position: absolute;
+    right: 40px;
+}
+
+a {
+    text-decoration: none;
+}
