@@ -494,4 +494,9 @@ mark, .mark {
         margin: 1em;
         margin-bottom: 2.5em;
     }
+
+    #secionLinks {
+        padding-top: 10em;
+        margin-top: 10em;
+    }
 }
